@@ -1,0 +1,562 @@
+{
+    "HAS_CLOSE_ELEMENTS": [
+        "method call addition"
+    ],
+    "SEPARATE_PAREN_GROUPS": [
+        "condition branch addition"
+    ],
+    "TRUNCATE_NUMBER": [
+        "math operator modification"
+    ],
+    "BELOW_ZERO": [
+        "condition expression modification",
+        "return expression modification"
+    ],
+    "MEAN_ABSOLUTE_DEVIATION": [
+        "assignment expression modification"
+    ],
+    "INTERSPERSE": [
+        "loop condition modification"
+    ],
+    "PARSE_NESTED_PARENS": [
+        "condition branch addition"
+    ],
+    "FILTER_BY_SUBSTRING": [
+        "condition branch addition"
+    ],
+    "SUM_PRODUCT": [
+        "initialization addition"
+    ],
+    "ROLLING_MAX": [
+        "condition branch addition"
+    ],
+    "MAKE_PALINDROME": [
+        "loop addition"
+    ],
+    "STRING_XOR": [
+        "condition branch addition"
+    ],
+    "LONGEST": [
+        "condition expression modification",
+        "assignment expression modification"
+    ],
+    "GREATEST_COMMON_DIVISOR": [
+        "assignment addition",
+        "assignment expression modification",
+        "variable modification"
+    ],
+    "ALL_PREFIXES": [
+        "method call parameter addition"
+    ],
+    "STRING_SEQUENCE": [
+        "return expression modification",
+        "method call addition"
+    ],
+    "COUNT_DISTINCT_CHARACTERS": [
+        "method call parameter addition",
+        "method call addition"
+    ],
+    "PARSE_MUSIC": [
+        "condition branch addition"
+    ],
+    "HOW_MANY_TIMES": [
+        "loop condition modification"
+    ],
+    "SORT_NUMBERS": [
+        "method call parameter addition"
+    ],
+    "FIND_CLOSEST_ELEMENTS": [
+        "loop condition modification"
+    ],
+    "RESCALE_TO_UNIT": [
+        "condition expression modification"
+    ],
+    "FILTER_INTEGERS": [
+        "condition branch addition"
+    ],
+    "STRLEN": [
+        "return expression modification"
+    ],
+    "LARGEST_DIVISOR": [
+        "loop condition modification"
+    ],
+    "FACTORIZE": [
+        "condition branch addition"
+    ],
+    "REMOVE_DUPLICATES": [
+        "condition branch addition"
+    ],
+    "FLIP_CASE": [
+        "method call modification"
+    ],
+    "CONCATENATE": [
+        "initialization modification"
+    ],
+    "FILTER_BY_PREFIX": [
+        "method call parameter deletion"
+    ],
+    "GET_POSITIVE": [
+        "condition branch addition"
+    ],
+    "IS_PRIME": [
+        "loop condition modification"
+    ],
+    "FIND_ZERO": [
+        "branch condition modification",
+        "method call parameter modification"
+    ],
+    "SORT_THIRD": [
+        "method call parameter modification"
+    ],
+    "UNIQUE": [
+        "condition branch addition"
+    ],
+    "MAX_ELEMENT": [
+        "initialization modification",
+        "method call addition"
+    ],
+    "FIZZ_BUZZ": [
+        "loop condition modification",
+        "method call modification",
+        "condition expression modification"
+    ],
+    "SORT_EVEN": [
+        "initialization modification",
+        "method call addition"
+    ],
+    "DECODE_CYCLIC": [
+        "loop condition modification"
+    ],
+    "PRIME_FIB": [
+        "method call parameter modification",
+        "method call addition"
+    ],
+    "TRIPLES_SUM_TO_ZERO": [
+        "loop condition modification"
+    ],
+    "CAR_RACE_COLLISION": [
+        "return expression modification"
+    ],
+    "INCR_LIST": [
+        "math operator modification"
+    ],
+    "PAIRS_SUM_TO_ZERO": [
+        "loop condition modification"
+    ],
+    "CHANGE_BASE": [
+        "assignment expression modification"
+    ],
+    "TRIANGLE_AREA": [
+        "return expression modification"
+    ],
+    "FIB4": [
+        "method call addition"
+    ],
+    "MEDIAN": [
+        "return expression modification"
+    ],
+    "IS_PALINDROME": [
+        "branch condition modification",
+        "return expression modification"
+    ],
+    "MODP": [
+        "assignment expression modification",
+        "return expression modification"
+    ],
+    "DECODE_SHIFT": [
+        "assignment expression modification"
+    ],
+    "REMOVE_VOWELS": [
+        "condition expression modification",
+        "method call addition"
+    ],
+    "BELOW_THRESHOLD": [
+        "condition expression modification",
+        "return expression modification"
+    ],
+    "ADD": [
+        "math operator modification",
+        "return expression modification"
+    ],
+    "SAME_CHARS": [
+        "type modification",
+        "initialization modification"
+    ],
+    "FIB": [
+        "condition branch addition"
+    ],
+    "CORRECT_BRACKETING": [
+        "condition expression modification",
+        "return expression modification"
+    ],
+    "MONOTONIC": [
+        "method call addition"
+    ],
+    "COMMON": [
+        "type modification",
+        "initialization modification"
+    ],
+    "LARGEST_PRIME_FACTOR": [
+        "condition expression expansion",
+        "assignment expression modification"
+    ],
+    "SUM_TO_N": [
+        "return expression modification"
+    ],
+    "DERIVATIVE": [
+        "loop condition modification",
+        "method call parameter modification"
+    ],
+    "FIBFIB": [
+        "condition branch addition"
+    ],
+    "VOWELS_COUNT": [
+        "condition expression expansion"
+    ],
+    "CIRCULAR_SHIFT": [
+        "method call parameter modification"
+    ],
+    "DIGIT_SUM": [
+        "condition branch deletion"
+    ],
+    "FRUIT_DISTRIBUTION": [
+        "try-catch statement addition"
+    ],
+    "PLUCK": [
+        "initialization modification"
+    ],
+    "SEARCH": [
+        "initialization modification",
+        "condition expression expansion",
+        "variable modification"
+    ],
+    "STRANGE_SORT_LIST": [
+        "method call addition",
+        "assignment addition"
+    ],
+    "TRIANGLE_AREA_2": [
+        "method call parameter modification"
+    ],
+    "WILL_IT_FLY": [
+        "math operator modification"
+    ],
+    "SMALLEST_CHANGE": [
+        "loop condition modification",
+        "condition expression modification"
+    ],
+    "TOTAL_MATCH": [
+        "loop condition modification",
+        "assignment expression modification",
+        "variable modification"
+    ],
+    "IS_MULTIPLY_PRIME": [
+        "condition branch addition"
+    ],
+    "IS_SIMPLE_POWER": [
+        "condition branch addition"
+    ],
+    "ISCUBE": [
+        "assignment addition"
+    ],
+    "HEX_KEY": [
+        "condition expression expansion"
+    ],
+    "DECIMAL_TO_BINARY": [
+        "method call modification"
+    ],
+    "IS_HAPPY": [
+        "condition expression expansion"
+    ],
+    "NUMERICAL_LETTER_GRADE": [
+        "condition branch addition",
+        "condition branch deletion"
+    ],
+    "PRIME_LENGTH": [
+        "math operator modification"
+    ],
+    "STARTS_ONE_ENDS": [
+        "return expression modification"
+    ],
+    "SOLVE": [
+        "method call parameter addition"
+    ],
+    "ADD_EVEN_AT_ODD": [
+        "loop condition modification"
+    ],
+    "ANTI_SHUFFLE": [
+        "assignment expression modification",
+        "return expression modification",
+        "method call addition"
+    ],
+    "GET_ROW": [
+        "variable modification"
+    ],
+    "SORT_ARRAY": [
+        "assignment addition",
+        "assignment expression modification"
+    ],
+    "ENCRYPT": [
+        "variable modification",
+        "method call parameter modification"
+    ],
+    "NEXT_SMALLEST": [
+        "type modification",
+        "initialization modification"
+    ],
+    "IS_BORED": [
+        "assignment addition"
+    ],
+    "ANY_INT": [
+        "condition expression expansion"
+    ],
+    "ENCODE": [
+        "condition branch modification"
+    ],
+    "SKJKASDKD": [
+        "assignment expression modification"
+    ],
+    "CHECK_DICT_CASE": [
+        "condition expression expansion"
+    ],
+    "COUNT_UP_TO": [
+        "break statement addition",
+        "assignment expression modification"
+    ],
+    "MULTIPLY": [
+        "method call addition",
+        "return expression modification"
+    ],
+    "COUNT_UPPER": [
+        "condition expression modification"
+    ],
+    "CLOSEST_INTEGER": [
+        "condition expression expansion",
+        "assignment expression modification"
+    ],
+    "MAKE_A_PILE": [
+        "math operator modification"
+    ],
+    "WORDS_STRINGS": [
+        "condition branch addition"
+    ],
+    "CHOOSE_NUM": [
+        "condition expression modification"
+    ],
+    "ROUNDED_AVG": [
+        "method call modification"
+    ],
+    "UNIQUE_DIGITS": [
+        "condition expression modification",
+        "assignment expression modification"
+    ],
+    "BY_LENGTH": [
+        "variable modification"
+    ],
+    "FACTORIAL": [
+        "math operator modification"
+    ],
+    "EVEN_ODD_PALINDROME": [
+        "condition expression modification",
+        "variable modification",
+        "math operator modification"
+    ],
+    "COUNT_NUMS": [
+        "variable modification"
+    ],
+    "MOVE_ONE_BALL": [
+        "method call parameter modification"
+    ],
+    "EXCHANGE": [
+        "loop condition modification",
+        "variable modification"
+    ],
+    "HISTOGRAM": [
+        "condition expression modification"
+    ],
+    "REVERSE_DELETE": [
+        "condition expression modification"
+    ],
+    "ODD_COUNT": [
+        "condition expression modification",
+        "variable modification",
+        "math operator modification"
+    ],
+    "MIN_SUBARRAY_SUM": [
+        "variable modification"
+    ],
+    "MAX_FILL": [
+        "variable modification"
+    ],
+    "SORT_ARRAY_BINARY": [
+        "variable modification"
+    ],
+    "SELECT_WORDS": [
+        "initialization modification"
+    ],
+    "GET_CLOSET_VOWEL": [
+        "loop condition modification"
+    ],
+    "MATCH_PARENS": [
+        "math operator modification"
+    ],
+    "MAXIMUM_K": [
+        "loop condition modification",
+        "variable modification",
+        "math operator modification"
+    ],
+    "GET_ODD_COLLATZ": [
+        "loop condition modification",
+        "condition expression modification",
+        "variable modification"
+    ],
+    "VALID_DATE": [
+        "condition expression modification"
+    ],
+    "SPLIT_WORDS": [
+        "method call modification"
+    ],
+    "IS_SORTED": [
+        "condition expression modification"
+    ],
+    "INTERSECTION": [
+        "method call modification",
+        "variable modification"
+    ],
+    "PROD_SIGNS": [
+        "condition expression modification",
+        "variable modification"
+    ],
+    "MIN_PATH": [
+        "method call modification",
+        "method call parameter modification"
+    ],
+    "TRI": [
+        "variable modification",
+        "loop condition modification",
+        "math operator modification"
+    ],
+    "DIGITS": [
+        "loop condition modification",
+        "math operator modification",
+        "variable modification"
+    ],
+    "IS_NESTED": [
+        "variable modification",
+        "method call parameter modification",
+        "condition expression modification"
+    ],
+    "SUM_SQUARED_NUMS": [
+        "variable modification",
+        "method call modification",
+        "declaration statement deletion"
+    ],
+    "CHECK_IF_LAST_CHAR_IS_A_LETTER": [
+        "assignment statement deletion",
+        "condition expression modification",
+        "method call modification",
+        "return expression modification"
+    ],
+    "CAN_ARRANGE": [
+        "initialization modification",
+        "loop condition modification",
+        "math operator modification",
+        "assignment expression modification"
+    ],
+    "LARGEST_SMALLEST_INTEGERS": [
+        "initialization modification",
+        "loop condition modification",
+        "assignment expression modification",
+        "method call modification"
+    ],
+    "COMPARE_ONE": [
+        "method call addition",
+        "method call deletion"
+    ],
+    "IS_EQUAL_TO_SUM_EVEN": [
+        "return expression modification"
+    ],
+    "SPECIAL_FACTORIAL": [
+        "type modification",
+        "loop condition modification",
+        "assignment expression modification"
+    ],
+    "FIX_SPACES": [
+        "condition branch addition"
+    ],
+    "FILE_NAME_CHECK": [
+        "condition expression modification"
+    ],
+    "SUM_SQUARES": [
+        "variable modification"
+    ],
+    "SIMPLIFY": [
+        "condition expression modification"
+    ],
+    "ORDER_BY_POINTS": [
+        "condition branch addition"
+    ],
+    "SPECIAL_FILTER": [
+        "method call parameter modification"
+    ],
+    "GET_MAX_TRIPLES": [
+        "loop condition modification"
+    ],
+    "BF": [
+        "condition branch addition"
+    ],
+    "SORTED_LIST_SUM": [
+        "condition branch addition"
+    ],
+    "X_OR_Y": [
+        "variable modification",
+        "return expression modification"
+    ],
+    "DOUBLE_THE_DIFFERENCE": [
+        "assignment expression modification"
+    ],
+    "COMPARE": [
+        "method call modification"
+    ],
+    "STRONGEST_EXTENSION": [
+        "condition branch modification",
+        "condition branch addition"
+    ],
+    "CYCPATTERN_CHECK": [
+        "initialization modification",
+        "loop condition modification"
+    ],
+    "EVEN_ODD_COUNT": [
+        "method call addition",
+        "declaration statement addition",
+        "condition expression modification"
+    ],
+    "INT_TO_MINI_ROMAN": [
+        "declaration statement addition",
+        "loop addition"
+    ],
+    "RIGHT_ANGLE_TRIANGLE": [
+        "return expression modification"
+    ],
+    "FIND_MAX": [
+        "condition branch addition"
+    ],
+    "EAT": [
+        "condition branch addition",
+        "initialization modification"
+    ],
+    "DO_ALGEBRA": [
+        "initialization modification",
+        "loop condition modification",
+        "variable modification"
+    ],
+    "SOLVE_STRING": [
+        "condition branch addition"
+    ],
+    "STRING_TO_MD5": [
+        "method call parameter modification"
+    ],
+    "GENERATE_INTEGERS": [
+        "method call parameter modification",
+        "method call addition"
+    ]
+}
