@@ -2,7 +2,7 @@ package humaneval.correct;
 
 import java.util.ArrayList;
 
-/* 
+/*
  * You will be given a string of words separated by commas or spaces. Your task is
  * to split the string into words and return an array of the words.
  *
