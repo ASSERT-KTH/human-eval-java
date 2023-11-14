@@ -23,9 +23,9 @@ public class GET_ROW {
         ArrayList<Tuple> result = new ArrayList<Tuple>();
 
         for (int i = 0; i < lst.size(); i += 1) {
-            for (int j = lst.get(i).size() - 1; j >= 0; j -= 1){
-                if (lst.get(i).get(j) == x){
-                    result.add(new GET_ROW().new Tuple(i, j));
+            for (int j = lst.get(0).size() - 1; j >= 0; j -= 1){
+                if (lst.get(i).get(i) == x){
+                    result.add(new GET_ROW().new Tuple(i, i));
                 }
             }
         }
