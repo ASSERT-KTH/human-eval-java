@@ -15,7 +15,7 @@ import java.math.RoundingMode;
 // iscube(180) ==> False
 
 public class ISCUBE {
-    public static boolean iscude(int a) {
+    public static boolean iscube(int a) {
         a = Math.abs(a);
         double root = Math.pow(a, 1./3);
         BigDecimal bd = BigDecimal.valueOf(root);
