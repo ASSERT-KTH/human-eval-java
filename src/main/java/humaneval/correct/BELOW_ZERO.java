@@ -7,10 +7,7 @@ public class BELOW_ZERO {
         int balance = 0;
         for (Integer op : operations){
             balance += op;
-            if (balance < 0){
-                return true;
-            }
         }
-        return false;
+        return balance < 0;
     }
 }
